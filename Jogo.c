@@ -6,8 +6,7 @@
 
 int main(){
     
-    unsigned int seed = (unsigned int)(time(NULL) ^ (uintptr_t) &seed);
-    srand(seed);
+    srand((unsigned int)time(NULL))
 
     puts("\n---------------------------------- Jogo Perguntado ----------------------------------\n\n ----- Voce possui 01 vida, assim como 01 de cada acao especial para lhe ajudar -----\n");
 
@@ -26,4 +25,5 @@ int main(){
     free_tudo(jogo, perg, grupo);
     
     return 0;
+
 }
