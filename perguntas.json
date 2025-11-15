@@ -1,0 +1,122 @@
+[
+  {
+    "nivel": 1,
+    "enunciado": "Qual eh a capital da Franca?",
+    "alternativas_num": 4,
+    "dica": "Tambem conhecida como a cidade luz.",
+    "resposta": 3,
+    "alternativas": ["Londres", "Madrid", "Paris", "Roma"]
+  },
+  {
+    "nivel": 1,
+    "enunciado": "Qual planeta eh conhecido como planeta vermelho?",
+    "alternativas_num": 4,
+    "dica": "Tem solo rico em ferro oxidado.",
+    "resposta": 2,
+    "alternativas": ["Venus", "Marte", "Jupiter", "Saturno"]
+  },
+  {
+    "nivel": 1,
+    "enunciado": "Qual eh o maior oceano do planeta?",
+    "alternativas_num": 4,
+    "dica": "Fica entre Asia e Americas.",
+    "resposta": 2,
+    "alternativas": ["Atlantico", "Pacifico", "Indico", "Artico"]
+  },
+  {
+    "nivel": 2,
+    "enunciado": "Quem descobriu o Brasil?",
+    "alternativas_num": 4,
+    "dica": "Chegou em 1500.",
+    "resposta": 1,
+    "alternativas": ["Pedro Alvares Cabral", "Cristovao Colombo", "Amerigo Vespucci", "Dom Pedro I"]
+  },
+  {
+    "nivel": 2,
+    "enunciado": "Qual eh a moeda oficial do Reino Unido?",
+    "alternativas_num": 4,
+    "dica": "Eh representada pelo simbolo £.",
+    "resposta": 3,
+    "alternativas": ["Euro", "Dolar", "Libra", "Franco"]
+  },
+  {
+    "nivel": 2,
+    "enunciado": "Qual eh o simbolo quimico do ouro?",
+    "alternativas_num": 4,
+    "dica": "Vem do latim 'aurum'.",
+    "resposta": 1,
+    "alternativas": ["Au", "Ag", "Pb", "Cu"]
+  },
+  {
+    "nivel": 3,
+    "enunciado": "Quem escreveu 'Dom Casmurro'?",
+    "alternativas_num": 4,
+    "dica": "Autor brasileiro do seculo XIX.",
+    "resposta": 2,
+    "alternativas": ["Jose de Alencar", "Machado de Assis", "Carlos Drummond", "Graciliano Ramos"]
+  },
+  {
+    "nivel": 3,
+    "enunciado": "Qual eh a capital da Australia?",
+    "alternativas_num": 4,
+    "dica": "Nao eh Sydney nem Melbourne.",
+    "resposta": 4,
+    "alternativas": ["Sydney", "Melbourne", "Brisbane", "Canberra"]
+  },
+  {
+    "nivel": 3,
+    "enunciado": "Qual eh a unidade de medida da intensidade da corrente eletrica?",
+    "alternativas_num": 4,
+    "dica": "Tem o nome de um cientista frances.",
+    "resposta": 3,
+    "alternativas": ["Volt", "Ohm", "Ampere", "Watt"]
+  },
+  {
+    "nivel": 4,
+    "enunciado": "Em que ano ocorreu a Revolucao Francesa?",
+    "alternativas_num": 4,
+    "dica": "Foi no final do seculo XVIII.",
+    "resposta": 3,
+    "alternativas": ["1776", "1804", "1789", "1750"]
+  },
+  {
+    "nivel": 4,
+    "enunciado": "Qual eh o maior deserto do mundo?",
+    "alternativas_num": 4,
+    "dica": "Eh coberto por gelo.",
+    "resposta": 1,
+    "alternativas": ["Antartico", "Saara", "Gobi", "Kalahari"]
+  },
+  {
+    "nivel": 4,
+    "enunciado": "Qual compositor eh conhecido por sua obra 'O Anel do Nibelungo'?",
+    "alternativas_num": 4,
+    "dica": "Compositor alemao do seculo XIX.",
+    "resposta": 2,
+    "alternativas": ["Beethoven", "Richard Wagner", "Bach", "Mozart"]
+  },
+  {
+    "nivel": 5,
+    "enunciado": "Qual eh o nome da teoria que explica a origem do universo?",
+    "alternativas_num": 4,
+    "dica": "Comecou com uma grande explosao.",
+    "resposta": 4,
+    "alternativas": ["Teoria das Cordas", "Teoria do Tudo", "Criacionismo", "Big Bang"]
+  },
+  {
+    "nivel": 5,
+    "enunciado": "Qual eh o nome do processo de conversao de luz solar em energia pelas plantas?",
+    "alternativas_num": 4,
+    "dica": "Envolve clorofila.",
+    "resposta": 3,
+    "alternativas": ["Respiracao", "Fermentacao", "Fotossintese", "Evaporacao"]
+  },
+  {
+    "nivel": 5,
+    "enunciado": "Qual eh o nome do algoritmo usado para encontrar o menor caminho em um grafo?",
+    "alternativas_num": 4,
+    "dica": "Foi criado por um cientista holandes em 1956.",
+    "resposta": 3,
+    "alternativas": ["Kruskal", "Prim", "Dijkstra", "Bellman-Ford"]
+  }
+]
