@@ -1,4 +1,4 @@
-projeto em grupo sobre o jogo em C da AT1 N2 de Algoritmos e Programação Estruturada, feito por: Kauã Téo e Gabriel Henrique.
+projeto em grupo sobre o jogo em C da AT1 N2 de Algoritmos e Programação Estruturada, feito por: Kauã Téo Dos Santos e Gabriel Henrique Cruz da Silva.
 
 1-Primeiro compila o arquivo .c da biblioteca seguindo essa lógica:
 gcc -c bib.c -o bib.o
