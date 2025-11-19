@@ -6,7 +6,7 @@
 
 int main(){
     
-    srand((unsigned int)time(NULL))
+    srand((unsigned int)time(NULL));
 
     puts("\n---------------------------------- Jogo Perguntado ----------------------------------\n\n ----- Voce possui 01 vida, assim como 01 de cada acao especial para lhe ajudar -----\n");
 
@@ -27,3 +27,4 @@ int main(){
     return 0;
 
 }
+
